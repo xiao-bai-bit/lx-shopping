@@ -21,8 +21,12 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 ### 项目截图：
 
-![image-20220718214146013](E:/Typora/%E6%88%AA%E5%9B%BE%E7%AE%A1%E7%90%86/image-20220718214146013.png)
+
+
+![image-20220718214620128](screenshot/image-20220718214620128.png)
 
 
 
-![image-20220718214131521](E:/Typora/%E6%88%AA%E5%9B%BE%E7%AE%A1%E7%90%86/image-20220718214131521.png)
+
+
+![image-20220718214645212](screenshot/image-20220718214645212.png)
