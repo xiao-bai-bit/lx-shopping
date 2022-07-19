@@ -23,10 +23,10 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 
 
-![image-20220718214620128](screenshot/image-20220718214620128.png)
+![image-20220719110514248](screenshot/image-20220719110514248.png)
 
 
 
 
 
-![image-20220718214645212](screenshot/image-20220718214645212.png)
+![image-20220719110556147](screenshot/image-20220719110556147.png)

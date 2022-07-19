@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div style="height: 1470px;width:100%;background-color: red;">
+  <div style="height: 470px;width:100%;background-color: red;">
 
   </div>
 </template>
