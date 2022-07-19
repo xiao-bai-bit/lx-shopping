@@ -3,6 +3,7 @@
 import LxNavbar from '@/components/lx-navbar.vue';
 import LxHeaderSticky from '@/components/lx-header-sticky.vue';
 import LxHeaderNav from '@/components/lx-header-nav.vue';
+import LxFooter from '@/components/lx-footer.vue';
 
 </script>
 
@@ -14,6 +15,8 @@ import LxHeaderNav from '@/components/lx-header-nav.vue';
     <main>
       <router-view></router-view>
     </main>
+
+    <LxFooter></LxFooter>
   </div>
 </template>
 
