@@ -121,12 +121,12 @@ const type = ref<string>("default");
   width: 100%;
   position: fixed;
   top: 0px;
-  z-index: -2;
+  z-index: -1;
   opacity: 0;
   &.active {
     transition: 1s linear;
     opacity: 1;
-    z-index: 9;
+    z-index: 9999;
   }
 }
 </style>
