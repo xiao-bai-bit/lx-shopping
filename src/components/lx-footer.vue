@@ -222,9 +222,9 @@
             color: rgb(117, 117, 117);
           }
 
-          &:last-child{
-            a{
-                border: none;
+          &:last-child {
+            a {
+              border: none;
             }
           }
         }

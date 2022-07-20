@@ -68,7 +68,7 @@ onMounted(() => {
       ></div>
 
       <svg
-        @click="next"
+        @click="last"
         t="1658233318363"
         class="icon lx-slideshow-next"
         viewBox="0 0 1024 1024"
@@ -85,7 +85,7 @@ onMounted(() => {
         ></path>
       </svg>
       <svg
-        @click="last"
+        @click="next"
         t="1658232700791"
         class="icon lx-slideshow-next right"
         viewBox="0 0 1024 1024"
@@ -126,7 +126,7 @@ onMounted(() => {
       z-index: 9999;
 
       &.right{
-        left: 95%;
+        left: 96%;
       }
     }
 
@@ -135,7 +135,7 @@ onMounted(() => {
       width: 100%;
       background-position: center;
       background-repeat: no-repeat;
-      z-index: 99;
+      z-index: -1;
       opacity: 0;
 
       &.face {

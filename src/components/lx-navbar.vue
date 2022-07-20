@@ -139,13 +139,13 @@ const supMenu = () => {
         position: relative;
         > ul > li > ul {
           position: absolute;
+          z-index: 9999;
           top: 40px;
           left: 60px;
           min-width: 100px;
           padding: 0 10px;
           display: none;
           background-color: #41444c;
-          z-index: 99999;
           li {
             width: 100%;
             text-align: center;
@@ -191,10 +191,11 @@ const supMenu = () => {
           }
           > div {
             display: none;
+            background: #ffffff;
             position: absolute;
             z-index: 99999;
             left: -75px;
-
+            padding: 10px 0 0 10px;
             height: 92px;
             margin: 12px 0 0 12px;
             > img {
