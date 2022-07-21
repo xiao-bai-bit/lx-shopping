@@ -8,6 +8,8 @@ interface Props {
   data?: object[];
 }
 
+
+
 const props = withDefaults(defineProps<Props>(), {
   autoPlay: false,
   time: 1000,
